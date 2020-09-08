@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+@import './assets/scss/utilities/variables';
+@import './assets/scss/utilities/classes';
+
+@import './assets/scss/base/base';
+
+@import './assets/scss/components/post.scss';
+@import './assets/scss/components/form';
+@import './assets/scss/components/paginator';
+@import './assets/scss/components/spinner';
+
+
+
+
+.d-none {
+  display: none !important;
+}
